@@ -1,0 +1,6 @@
+1. Find maximum or minimum between two or more -
+  int max = Math.max(a,b);
+2. Cont number of digits in any number -
+  int num = 3553;
+  int numberofdigits = (int)(Math.log10(num)+1);
+3.
